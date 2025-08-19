@@ -1,12 +1,13 @@
 # 👋 Hi, I’m @Subhrajit-14 (Subhrajit Swain)
 
 <p align="center">
-  <b style="color: blue;  ">Visitor count</b>
+  <span style="color:blue"><b>Visitor count</b></span>
   <br>
-  <a style="" href="https://github.com/Subhrajit-14">
-  <img src="https://profile-counter.glitch.me/Subhrajit-14/count.svg" />
+  <a href="https://github.com/Subhrajit-14">
+    <img src="https://profile-counter.glitch.me/Subhrajit-14/count.svg" alt="Visitor counter" />
   </a>
 </p>
+
 <a style="" href="https://github.com/Subhrajit-14">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
