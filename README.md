@@ -6,12 +6,28 @@
 
 <!-- 1️⃣ Clean Personal Intro + Typing animation -->
 
+<!-- Typing SVG -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Subhrajit+Swain+👋;Full+Stack+Developer+%7C+MERN+%26+Java;I+love+building+scalable+web+applications"
     alt="Typing SVG"
   />
 </p>
+
+<!-- GitHub stats + top languages -->
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/wave.gif" width="30" alt="wave hand" />
@@ -77,6 +93,7 @@
 
 ## 📊 GitHub Stats & Activity
 
+<!-- GitHub stats + top languages -->
 <p align="center">
   <img
     height="170"
