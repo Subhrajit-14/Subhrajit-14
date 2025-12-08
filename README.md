@@ -25,7 +25,11 @@
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhrajit-14&color=007bed&style=flat-square" alt="Profile views" />
+    <b style="color: blue;  ">Visitor count</b>
+    <br>
+    <a style="" href="https://page-visitor.vercel.app/">
+        <img src="https://page-visitor.vercel.app/Subhrajit-14/count.svg?boxColor=%23113144&textColor=%232badff&fontSize=20" />
+    </a>
 </p>
 
 
