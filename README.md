@@ -1,4 +1,4 @@
-<img width="922" height="612" alt="image" src="https://github.com/user-attachments/assets/ef0f7b95-2613-4e76-8da6-27d27d003789" /><!--
+<!--
   Profile README for: Subhrajit-14
   1. Create repo named exactly "Subhrajit-14".
   2. Add this as README.md and push.
@@ -12,7 +12,6 @@
     alt="Typing SVG"
   />
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/wave.gif" width="30" alt="wave hand" />
