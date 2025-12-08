@@ -1,14 +1,10 @@
-<!--
+<img width="922" height="612" alt="image" src="https://github.com/user-attachments/assets/ef0f7b95-2613-4e76-8da6-27d27d003789" /><!--
   Profile README for: Subhrajit-14
   1. Create repo named exactly "Subhrajit-14".
   2. Add this as README.md and push.
 -->
 
 <!-- 1️⃣ Clean Personal Intro + Typing animation -->
-<p align="center">
-  <span><b>Visitor Count</b></span><br>
-  <img src="https://profile-counter.glitch.me/Subhrajit-14/count.svg" alt="Visitor counter" />
-</p>
 
 <p align="center">
   <img
@@ -16,6 +12,7 @@
     alt="Typing SVG"
   />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/wave.gif" width="30" alt="wave hand" />
@@ -27,10 +24,9 @@
 
 <!-- Visitor counter -->
 <p align="center">
-  <a href="https://github.com/Subhrajit-14">
-    <img src="https://profile-counter.glitch.me/Subhrajit-14/count.svg" alt="Visitor counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Subhrajit-14&color=007bed&style=flat-square" alt="Profile views" />
 </p>
+
 
 ---
 
@@ -83,19 +79,18 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall stats -->
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs,issues"
+    src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
-  <!-- Languages -->
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&theme=tokyonight&layout=compact&hide_progress=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
+
 
 <p align="center">
   <!-- Streak stats -->
@@ -114,10 +109,11 @@
 -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Subhrajit-14/Subhrajit-14/github-user-contribution.svg"
+    src="https://raw.githubusercontent.com/Subhrajit-14/Subhrajit-14/main/github-user-contribution.svg"
     alt="Snake animation"
   />
 </p>
+
 
 ---
 
