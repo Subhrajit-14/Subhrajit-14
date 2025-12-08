@@ -14,20 +14,6 @@
   />
 </p>
 
-<!-- GitHub stats + top languages -->
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/wave.gif" width="30" alt="wave hand" />
