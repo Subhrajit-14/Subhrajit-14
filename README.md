@@ -6,11 +6,10 @@
 
 <!-- 1️⃣ Clean Personal Intro + Typing animation -->
 
-<!-- Typing SVG -->
+<!-- 💚 Matrix Hacker Banner -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Subhrajit+Swain+👋;Full+Stack+Developer+%7C+MERN+%26+Java;I+love+building+scalable+web+applications"
-    alt="Typing SVG"
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=900&height=100&lines=>+Initializing+Developer+Profile...;>+Subhrajit+Swain;>+Full+Stack+Engineer;>+Building+Scalable+Systems"
   />
 </p>
 
@@ -47,7 +46,7 @@
 ## 📚 Currently Learning & 🎯 Next Goals
 
 - 📘 Deepening **Java backend**: Spring Boot, security, testing, clean architecture  
-- 🌐 Strengthening **MERN** skills: state management, performance optimization, reusable components  
+- 🌐 Strengthening **MERN** skills: FastApi, Three.js, Matter.js  
 - ☁️ Exploring **deployment & CI/CD**: smooth pipelines for Node/Java apps  
 - 🎯 Next goals: build **production‑ready projects**, contribute to **open‑source**, and grow as a **full‑stack engineer**  
 
@@ -120,44 +119,6 @@
   />
 </p>
 
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace placeholders with your real projects -->
-
-### 1. MERN Task Manager
-
-- 🧩 A full‑stack task management app with auth, filters, and responsive UI  
-- 🛠 Tech:  
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-- 🔗  
-  [Live Demo](#) • [Repository](#)
-
----
-
-### 2. Java Spring Boot API
-
-- 🔐 REST API with JWT authentication, role‑based access, and CRUD operations  
-- 🛠 Tech:  
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-- 🔗  
-  [Live Demo](#) • [Repository](#)
-
----
-
-### 3. Portfolio Website
-
-- 🎨 Developer portfolio showcasing projects, skills, and contact form  
-- 🛠 Tech:  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,netlify" />
-- 🔗  
-  [Live Demo](#) • [Repository](#)
-
-> Replace `#` with your actual links when your projects are deployed.
-
----
 
 ## 🙋‍♂️ About Me
 
