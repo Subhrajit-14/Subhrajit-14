@@ -36,19 +36,21 @@
 
 ## ⚡ Quick Snapshot
 
-- 🔭 Currently working on: full‑stack web apps using **React, Node.js, MongoDB & Java (Spring Boot)**  
+- 💼 1+ year of experience building full-stack web applications using **MERN stack (React, Node.js, MongoDB)**  
+- 🔭 Currently working on: scalable web apps using **React, Node.js & Java (Spring Boot)**  
 - 🌱 Learning: **advanced backend (Spring Security, REST best practices)** & **modern frontend patterns**  
 - 🚀 Skills: **MERN stack, Java, REST APIs, responsive UI, Git & GitHub**  
-- 🤝 Open to: **internships, open‑source, and collaboration on real‑world projects**  
+- 🤝 Open to: open-source contributions, collaboration, and exciting full-stack opportunities   
 
 ---
 
 ## 📚 Currently Learning & 🎯 Next Goals
 
 - 📘 Deepening **Java backend**: Spring Boot, security, testing, clean architecture  
-- 🌐 Strengthening **MERN** skills: FastApi, Three.js, Matter.js  
+- 🌐 Strengthening **MERN** skills: FastAPI, Three.js, Matter.js  
 - ☁️ Exploring **deployment & CI/CD**: smooth pipelines for Node/Java apps  
-- 🎯 Next goals: build **production‑ready projects**, contribute to **open‑source**, and grow as a **full‑stack engineer**  
+- 🎯 Next goals: build **production‑ready projects**, contribute to **open‑source**, and grow as a **full‑stack engineer**
+- 🎯 Goal: become a vibe-driven developer — writing clean, intuitive, and well-crafted code while leveraging AI as a smart assistant, not a replacement  
 
 ---
 
