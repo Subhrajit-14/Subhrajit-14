@@ -84,16 +84,13 @@
 
 <!-- GitHub stats + top languages -->
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1F4E79&icon_color=1F4E79&text_color=ffffff"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1F4E79&text_color=ffffff"
-    alt="Top Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhrajit-14&show_icons=true&theme=tokyonight&hide_border=true&title_color=1F4E79&icon_color=1F4E79&text_color=ffffff" alt="GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajit-14&layout=compact&theme=tokyonight&hide_border=true&title_color=1F4E79&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhrajit-14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
